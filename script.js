@@ -8,7 +8,7 @@ function openPage(page) {
     web5: "https://sites.google.com/muhak.sen.ms.kr/achieve3-5?usp=sharing",
     web6: "https://sites.google.com/muhak.sen.ms.kr/achieve3-6?usp=sharing",
     web7: "https://sites.google.com/muhak.sen.ms.kr/achieve3-7?usp=sharing",
-    web8: "https://sites.google.com/muhak.sen.ms.kr/achieve3-9?usp=sharing",
+    web8: "https://sites.google.com/muhak.sen.ms.kr/achieve3-8?usp=sharing",
     web9: "https://sites.google.com/muhak.sen.ms.kr/achieve3-9?usp=sharing",
     web10: "https://sites.google.com/muhak.sen.ms.kr/achieve3-10?usp=sharing"
   };
